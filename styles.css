@@ -1,0 +1,164 @@
+body{
+    margin: 0auto;
+}
+.navbar{
+    flex: 1;
+
+}
+ li.home{
+    display: inline;
+    text-decoration: none;
+    color: orangered;
+    margin-left: 750px;
+    text-transform: capitalize;
+}
+li.abt{
+    display: inline;
+    float: right;
+    text-decoration: none;
+    margin-right: 20px;
+    text-transform: capitalize;
+    color: white;
+}
+li.src{
+    display: inline;
+    float: right;
+    text-transform: capitalize;
+    color: white;
+}
+img{
+    height: 220px;
+    width: 99%;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: -5px;
+}
+p.text{
+position: relative;
+padding: 0 1rem;
+/* top: 2rem; */
+text-align: center;
+color: white;
+top: 85px;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-size: 15px;
+}
+a.home{
+    color: orangered;
+    text-transform: uppercase;
+   font-size: 10px;
+}
+div.navbar{
+    background-color: rgba(2, 45, 102, 0.747);
+    left: 500;
+    height: 80px;
+    width: 101%;
+    margin-top: -15px;
+    margin-left: -5px;
+}
+b#top{
+    color: orangered;
+}
+p.head{
+    position: relative;
+    padding: 0 1rem;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    top: -10px;
+}
+div.subscribe{
+    background-color: rgba(2, 45, 102, 0.747);
+    position: relative;
+    height: 50px;
+    width: 101%;
+    margin-top: 129px;
+    margin-left: -5px;
+    top: -19px;
+}
+button{
+    background-color: orangered;
+    color: white;
+    position: absolute;
+    display: inline-block;
+    left: 650px;
+    top: 20px;
+    border: none;
+    width: 10%;
+    height: 20px;
+}
+input{
+    position: absolute;
+    display: inline-block;
+    left: 530px;
+    top: 20px;
+  
+}
+p.subscribe{
+    position: absolute;
+    color: white;
+}
+div.email{
+    margin-right: -100px;
+    left:  50px;
+}
+div.hr{
+    border: 2px solid orangered;
+    margin-top: 25px;
+}
+
+img.html{
+    width: 5%;
+    height: 50px;
+    margin: 10px;
+    margin-left: 105px;
+    display: inline-block;
+    margin-bottom: 80px;
+}
+p.html{
+    position: absolute;
+    bottom: 80px;
+    left: 15px;  
+    text-align: center;
+}
+img.css{
+    width: 4.5%;
+    height: 60px;
+    margin: 10px;
+    float: right;
+    display: inline-block;
+    margin-left: 365px;
+}
+p.css{
+    position: absolute;
+    bottom: 90px;
+    margin-left: 299px;
+    text-align: center;
+}
+img.graphic{
+    width: 5%;
+    height: 50px;
+    margin-left: 599px;
+    margin-top: 10px;
+}
+p.graphic{
+    position: absolute;
+    bottom: 90px;
+    margin-left: 565px;
+    text-align: center;
+}
+div.copy{
+    width: 101%;
+    height: 40px;
+    background-color: orangered;
+    margin-top: 150px;
+    margin-right: 50px;
+}
+p.copy{
+    color: white;
+    text-align: center;
+}
